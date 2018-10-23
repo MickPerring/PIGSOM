@@ -15,7 +15,7 @@
 - To run program on large dataset and default parameters: > python run_large.py
   - _train_large.csv and test_large.csv must be included in directory_
 
-**Kears Neural Network (Keras_Net):**
+**Kears Neural Network (Keras_Neural_Net):**
 - _Make sure that the Keras development environment is set up! See: https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/_
 - Open Anaconda terminal and navigate to the Keras_Neural_Net directory
   - _pima-indians-diabetes.csv dataset file must be included in directory_
